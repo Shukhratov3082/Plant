@@ -1,0 +1,159 @@
+.section2{
+
+    .box1{
+        margin-bottom: 130px;
+        display: flex;
+        gap: 95px;
+        h1{
+            font-weight: 800;
+            font-size: 57px;
+            line-height: 140%;
+            color: $primaryBlack;
+            margin-bottom: 60px;
+        }
+        p{
+            margin-top: 40px;
+            font-size: 18px;
+            margin-bottom: 50px;
+        }
+         .ot2{
+             width: 436.27px;
+             height: 383px;
+             background: $secondaryColor;
+             padding: 8px 26px;
+         }
+        .ot3{
+            width: 566px;
+            height: 348px;
+            background: $secondaryColor;
+            padding: 60px 44px;
+        }
+    }
+    .box2{
+        display: flex;
+         gap: 95px;
+        margin-bottom: 130px;
+            .tvue{
+                width: 492px;
+                height: 252px;
+                background: $secondaryColor;
+                padding: 30px 64px;
+                margin-bottom: 60px;
+            }
+            .pt{
+                display: flex;
+                gap: 26px;
+                margin-bottom: 37px;
+                .ptichka{
+                    width: 40px;
+                    height: 40px;
+                    background: $primaryColor;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                }
+           }
+                h1{
+                    font-size: 57px;
+                    color: $primaryBlack;
+                    line-height: 79.8px;
+                    margin-bottom: 60px;
+                }
+                .tvue2{
+                    width: 528px;
+                    height: 437px;
+                    background: $secondaryColor;
+                    padding: 32px 65px;
+                }
+        }
+        .box3{
+            margin-bottom: 130px;
+            display: flex;
+            gap: 95px;
+            h1{
+                font-weight: 800;
+                font-size: 57px;
+                line-height: 140%;
+                margin-bottom: 60px;
+            }
+            p{
+                margin-top: 40px;
+                font-size: 18px;
+                margin-bottom: 50px;
+                line-height: 160%;
+            }
+             .kaktus{
+                 width: 499px;
+                 height: 442px;
+                 background: $secondaryColor;
+                 padding: 48px 74px;
+             }
+            .tvue3{
+                width: 528px;
+                height: 543px;
+                background: $secondaryColor;
+                padding: 40px 55px;
+            }
+        }
+        .box4{
+            display: flex;
+            gap: 24px;
+            margin-bottom: 136px;
+            .box4-div1 {
+
+                     .tvue4{
+                         width: 527px;
+                         height: 215px;
+                         display: flex;
+                         gap: 42px;
+                         padding: 40px 45px;
+                         background: $secondaryColor;
+                       margin-bottom: 24px;
+                     }
+
+                     .tvue5{
+                         width: 527px;
+                         height: 215px;
+                         display: flex;
+                         gap: 42px;
+                         padding: 40px 45px;
+                         background: $secondaryColor;
+                         margin-bottom: 40px;
+                     }
+
+                     h2{
+                         font-size: 32px;
+                         margin-bottom: 15px;
+                     }
+
+                     p{
+                         font-size: 14px;
+                         margin-bottom: 20px;
+                         line-height: 160%;
+                     }
+
+                     span{
+                         color: $primaryColor;
+                         font-size: 24px;
+                         font-weight: 700;
+                     }
+            }
+            .box4-div2{
+       
+            .tvue6{
+                width: 528px;
+                height: 256px;
+                display: flex;
+                gap: 42px;
+                padding: 40px 45px;
+                background: $secondaryColor;
+                margin-bottom: 48px;
+            }
+            h1{
+                line-height: 140%;
+                font-size: 54px;
+                margin-bottom: 60px;
+            }
+        }
+        }
+}

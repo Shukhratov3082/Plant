@@ -1,0 +1,48 @@
+footer{
+    width: 100%;
+    height: 369px;
+    display: flex;
+    padding: 100px 270px;
+    background: $secondaryColor;
+    justify-content: space-around;
+    position: relative;
+    img{
+        width: 160px;
+        height: 132px;
+    }
+       h1{
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+ p{
+     font-size: 18px;
+     opacity: 0.6;
+     margin-bottom: 15px;
+ }
+ .fot-div3{
+    div{
+        display: flex;
+        display: flex;
+        gap: 12px;
+        .dumaloq{
+            width: 37px;
+            height: 37px;
+            border-radius: 50%;
+            background: $primaryBlack;
+            align-items: center;
+            justify-content: center;
+            display: flex;
+            img{
+                height: 10px;
+            }
+        }
+    }
+ }
+ .fotimg{
+    width: 700px;
+    height: 260px;
+     position: absolute;
+     right: 0;
+     bottom: 0;
+ }
+}
